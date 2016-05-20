@@ -1,0 +1,22 @@
+{
+  "name": "redux-todo-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witinweb/redux-todo-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witinweb/redux-todo-sample/issues"
+  },
+  "homepage": "https://github.com/witinweb/redux-todo-sample#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
