@@ -1,7 +1,11 @@
-module.exports = function () {
-    var element = document.createElement('h1');
+import React from 'react';
 
-    element.innerHTML = 'Hello world';
+class App extends React.Component {
+    render(){
+        return (
+            <h1>Hello World</h1>
+        );
+    }
+}
 
-    return element;
-};
+export default App
